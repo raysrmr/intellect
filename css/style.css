@@ -1,0 +1,24 @@
+
+       #hphead{
+           color: brown;
+           text-align: center;
+       } 
+       #p1{
+           color: aqua;
+           background-color: black;
+           border-top-style: dotted;
+       }
+       
+       h3{
+           color:darkgreen;
+           text-align: right;
+       }
+       .div1{
+           background-color: rgb(51, 7, 7);
+           border: 5px solid #babacd;
+           border-width: thick;
+           /*border-style: dotted;*/
+           font-family: Verdana, Geneva, Tahoma, sans-serif;
+           color: aliceblue;
+           opacity: .5;
+       }
